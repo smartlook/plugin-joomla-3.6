@@ -1,9 +1,11 @@
-# Smartlook Joomla plugin
+# Smartlook plugin: Joomla
 
-Joomla plugin for Smartlook visitor recording
+Smartlook Website Visitor Recording Tool
 
-* https://www.getsmartlook.com/
+## Versions
+
+* 1.0.0
 
 ## Copyright
 
-Copyright (c) 2016 Smartsupp.com, s.r.o.
+Copyright (c) 2017 [Smartsupp.com](https://www.smartsupp.com/)
