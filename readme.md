@@ -1,10 +1,10 @@
 # Smartlook plugin: Joomla
 
-Smartlook Website Visitor Recording Tool
+Smartlook plugin for Joomla
 
 ## Versions
 
-* 1.0.0
+* 1.0.0 (Joomla 3.6)
 
 ## Copyright
 
