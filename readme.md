@@ -1,6 +1,6 @@
 # Smartlook plugin: Joomla
 
-Plugin for Joomla
+Plugin for Joomla.
 
 ## Versions
 
