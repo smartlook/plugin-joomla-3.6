@@ -1,11 +1,7 @@
-# Smartlook plugin: Joomla
+# Smartlook plugin - Joomla
 
-Plugin for Joomla.
-
-## Versions
-
-* 1.0.0 (Joomla 3.6)
+Download plugin files in .ZIP above.
 
 ## Copyright
 
-Copyright (c) 2017 [Smartlook.com](https://www.smartlook.com/)
+Copyright (c) 2018 [Smartlook.com](https://www.smartlook.com/)
