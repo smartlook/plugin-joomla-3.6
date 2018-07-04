@@ -1,6 +1,6 @@
 # Smartlook plugin - Joomla
 
-Download plugin files in .ZIP above.
+Compatibility: versions 3600 - 3840.
 
 ## Copyright
 
