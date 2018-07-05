@@ -1,6 +1,8 @@
-# Smartlook plugin - Joomla
+# Smartlook plugin - Joomla 3.6
 
-Compatibility: versions 3600 - 3840.
+## Compatibility
+
+Versions: 3.6.0.0 - 3.8.4.0
 
 ## Copyright
 
